@@ -1,5 +1,1 @@
-# Reemplazá pub-XXXXXXXXXXXXXXXX por tu ID real de editor de AdSense
-# (lo encontrás en AdSense > Cuenta > Información de la cuenta, como "pub-1234567890123456")
-# Después de editarlo, el archivo debe quedar accesible en:
-# https://tuttifruttigame.app/ads.txt
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-1753251437746256, DIRECT, f08c47fec0942fa0
