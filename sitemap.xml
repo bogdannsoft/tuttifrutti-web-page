@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tuttifruttigame.app/</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/"/>
+  </url>
+  <url>
+    <loc>https://tuttifruttigame.app/en/</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/"/>
+  </url>
+
+  <url>
+    <loc>https://tuttifruttigame.app/juego-local.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/juego-local.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/local-game.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/juego-local.html"/>
+  </url>
+  <url>
+    <loc>https://tuttifruttigame.app/en/local-game.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/juego-local.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/local-game.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/juego-local.html"/>
+  </url>
+
+  <url>
+    <loc>https://tuttifruttigame.app/desafios-online.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/desafios-online.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/online-challenges.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/desafios-online.html"/>
+  </url>
+  <url>
+    <loc>https://tuttifruttigame.app/en/online-challenges.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/desafios-online.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/online-challenges.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/desafios-online.html"/>
+  </url>
+
+  <url>
+    <loc>https://tuttifruttigame.app/juego-en-vivo.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/juego-en-vivo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/live-game.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/juego-en-vivo.html"/>
+  </url>
+  <url>
+    <loc>https://tuttifruttigame.app/en/live-game.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/juego-en-vivo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/live-game.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/juego-en-vivo.html"/>
+  </url>
+
+  <url>
+    <loc>https://tuttifruttigame.app/privacy-policy.html</loc>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/privacy-policy.html"/>
+  </url>
+  <url>
+    <loc>https://tuttifruttigame.app/en/privacy-policy.html</loc>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://tuttifruttigame.app/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tuttifruttigame.app/en/privacy-policy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tuttifruttigame.app/privacy-policy.html"/>
+  </url>
+</urlset>
