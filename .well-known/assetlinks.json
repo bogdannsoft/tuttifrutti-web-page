@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bogdan.tuttifrutti",
+    "sha256_cert_fingerprints": ["0D:44:6A:20:18:76:B6:2E:8D:73:45:A7:22:93:BB:98:B6:7F:8B:2E:00:4B:E1:E4:8F:7C:15:11:F7:60:0D:B1"]
+  }
+}]
